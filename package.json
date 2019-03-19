@@ -1,0 +1,27 @@
+{
+  "name": "slate-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christophbuehler/slate-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christophbuehler/slate-test/issues"
+  },
+  "homepage": "https://github.com/christophbuehler/slate-test#readme",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "slate": "^0.44.12",
+    "slate-react": "^0.21.18"
+  }
+}
